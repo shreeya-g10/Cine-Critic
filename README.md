@@ -1,4 +1,4 @@
-# CineCritic – Movie Review Web App
+# CineCritic – Collaborative Movie Review Application
 
 This project is a mini full-stack application built using Lovable (frontend) and Firebase Realtime Database (backend).
 
