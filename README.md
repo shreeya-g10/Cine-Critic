@@ -1,2 +1,8 @@
-# Cine-Critic
-Original repository for a collaborative Movie Review full-stack application demonstrating fork, branch, pull request, and merge conflict resolution using GitHub workflow.
+# CineCritic – Movie Review Web App
+
+This project is a mini full-stack application built using Lovable (frontend) and Firebase Realtime Database (backend).
+
+Features:
+- Submit movie reviews
+- Store reviews in Firebase Realtime Database (movieReviews node)
+- Display latest review on the UI
